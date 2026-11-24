@@ -73,7 +73,7 @@ git stash pop
 git status
 git diff
 ```
-EXPERIMENT 5: STASHING CHANGES
+EXPERIMENT 5: STASHING CHANGES 
 echo "# work in progress" >> hello.py
 git status
 git stash push -m "WIP: work in progress on hello.py"
